@@ -1,0 +1,4 @@
+<factorypath>
+    <factorypathentry kind="WKSPJAR" id="/test_rest/compile-libs/androidannotations-3.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="WKSPJAR" id="/test_rest/compile-libs/com.springsource.org.codehaus.jackson.mapper-1.4.2.jar" enabled="false" runInBatchMode="false"/>
+</factorypath>
